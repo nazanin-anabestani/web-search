@@ -1,13 +1,19 @@
 *{
     font-family: "IranSans", sans-serif;
 }
-p, h1 {
+p, h1 , h2 {
     direction: rtl;
+}
+
+h1 , h2{
+    color: #333;
+    padding: 5px;
+    border-top: solid 1px darkgray;
 }
 
 body {
     padding: 5% 15%;
-    background-color: #e8eeee;
+    background-color: #f2feff;
 }
 
 
