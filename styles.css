@@ -1,5 +1,5 @@
 *{
-    font-family: B-Traffic;
+    font-family: "IranSans", sans-serif;
 }
 p, h1 {
     direction: rtl;
@@ -17,15 +17,3 @@ code {
     line-height: 20px;
 }
 
-
-@font-face {
-    font-family: 'B-Traffic';
-    src: url('B-Traffic/BTraffic.eot');
-    src: url('B-Traffic/BTraffic.eot?#iefix') format('embedded-opentype'),
-    url('B-Traffic/BTraffic.woff2') format('woff2'),
-    url('B-Traffic/BTraffic.woff') format('woff'),
-    url('B-Traffic/BTraffic.ttf') format('truetype'),
-    url('B-Traffic/BTraffic.svg#AMehdiHeydari') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
